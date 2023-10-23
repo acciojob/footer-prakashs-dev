@@ -30,9 +30,12 @@ body{
     color: #9c9ea2;
 	
 }
-.media-icons{
+/* .media-icons{
+	
+} */
+.media-icons>a{
+/* 	display:flex; */
 	font-size:x-large;
-	display:flex;
 	justify-content: space-evenly;
 }
 .center{
